@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Asimovian&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&family=Story+Script&display=swap');
+/* @theme {
+    --font-advent:"Advent Pro", sans-serif;
+    --font-dela:"Dela Gothic One", sans-serif;
+    --font-gloria:"Gloria Hallelujah", cursive;
+    --font-monoton:"Monoton", sans-serif;
+    --font-daughter:"Architects Daughter", cursive;
+    --font-montserrat:"Montserrat",sans-serif;
+    --font-big-shoulder:"Big Shoulders", sans-serif;
+    --font-roboto:"Roboto", sans-serif;
+    --font-inter:"Inter", sans-serif;
+    --font-raleway:"Raleway", sans-serif;
+    --font-kanit:"Kanit", sans-serif;
+    --font-urbanist:"Urbanist", sans-serif;
+   
+   
+} */
+ @theme{
+    --font-mont:"Montserrat", sans-serif;
+    --font-rubik:"Rubik", sans-serif;
+    --font-asimov:"Asimovian", sans-serif;
+    --font-story:"Story Script", sans-serif;
+    --container-333b: 104rem;
+ }
